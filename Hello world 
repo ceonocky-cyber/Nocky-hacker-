@@ -1,0 +1,3 @@
+print("Hello Uganda 🇺🇬 , I am Nocky")
+name = input("Your name? ")
+print("Welcome", name, "to cyber world")
