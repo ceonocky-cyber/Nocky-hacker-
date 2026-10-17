@@ -1,5 +1,5 @@
 # Nocky Cyber Lab
-Hi, I am Vector (CeoNocky) from Mbale, Uganda - S3 South.
+Hi, I am Nocky256 (CeoNocky) Uganda 🇺🇬 
 
 This is where I learn Cyber Security - not to hack, but to protect.
 
@@ -10,6 +10,6 @@ This is where I learn Cyber Security - not to hack, but to protect.
 - [ ] Ethical hacking labs on TryHackMe
 
 ## My goal:
-To become a Cyber Security Analyst from Mbale.
+To become a Cyber Security Analyst from Uganda 🇺🇬 
 
 Contact: ceonocky
